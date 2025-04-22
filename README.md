@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Clever Cardoso!
 
-<!--
-**CleverCardoso/CleverCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Tenho 20 anos, sou estudante de Tecnologia da Informação no IESB e apaixonado por programação.
+- 🐍 Estudo Python todos os dias e venho desenvolvendo projetos pessoais que vão desde automações até análise de dados.
+- 🚀 Estou sempre buscando aprender mais, explorar novas tecnologias e colocar em prática tudo que estudo.
+ ##
+<div align="">
+  <a href="https://github.com/CleverCardoso">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleverCardoso&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+ ##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Clever-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+<div> 
+  <a href="https://www.instagram.com/clever__junior/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.twitch.tv/zoddye" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:clebercardoso.art@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div
