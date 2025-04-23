@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Clever Cardoso!
 
-- 🧑‍💻 Tenho 20 anos, sou estudante de Tecnologia da Informação no IESB e apaixonado por programação.
+- 🧑‍💻 Tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas no IESB e apaixonado por programação.
 - 🐍 Estudo Python todos os dias e venho desenvolvendo projetos pessoais que vão desde automações até análise de dados.
 - 🚀 Estou sempre buscando aprender mais, explorar novas tecnologias e colocar em prática tudo que estudo.
  ##
