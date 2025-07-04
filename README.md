@@ -11,9 +11,11 @@
 </div>
 
  ##
- ## Essas são as linguagens que eu mais utilizo no meu dia a dia.🚀💻
+## Essas são as linguagens que eu mais utilizo no meu dia a dia.🚀💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Clever-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Clever-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Clever-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
  ##
@@ -27,4 +29,4 @@
   <a href="mailto:clebercardoso.art@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div
+</div>
