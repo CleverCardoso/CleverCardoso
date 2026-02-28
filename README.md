@@ -11,7 +11,7 @@ Atualmente estudo e desenvolvo projetos com:
 - APIs REST
 - Docker & DevOps
 
-🚀 Buscando oportunidades para atuar na área de TI, especialmente em backend e desenvolvimento de APIs.
+🚀 Buscando oportunidades para atuar na área de TI!
 
 ---
 
