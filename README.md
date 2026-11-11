@@ -1,8 +1,10 @@
-# Clever Cardoso
+# Olá, eu sou o Clever 👋
 
-Sou de Brasília e faço Análise e Desenvolvimento de Sistemas no IESB. Comecei com Python, hoje passo a maior parte do tempo em TypeScript e Next.js, e estou aprendendo Java com Spring Boot.
+Desenvolvedor backend e full-stack de Brasília, cursando Análise e Desenvolvimento de Sistemas no IESB.
 
-Procuro estágio ou vaga júnior em backend ou full-stack. Me acha no [LinkedIn](https://www.linkedin.com/in/cleverlandio-cardoso).
+Já entreguei um chatbot de WhatsApp que consulta preços para os clientes de uma empresa, e hoje construo a Miss English, a plataforma de uma escola de inglês. Trabalho principalmente com TypeScript, Next.js e PostgreSQL, uso Python para automação e dados, e estou me aprofundando em Java com Spring Boot.
+
+📫 Aberto a estágio ou vaga júnior · [LinkedIn](https://www.linkedin.com/in/cleverlandio-cardoso)
 
 ## No que tenho trabalhado
 
