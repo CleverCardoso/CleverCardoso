@@ -1,59 +1,39 @@
-# Olá, eu sou o Clever Cardoso 👋
+# Clever Cardoso
 
-Estudante de Análise e Desenvolvimento de Sistemas no IESB, em Brasília – DF.
-Desenvolvo aplicações web e automações que integram APIs, bancos de dados e inteligência artificial.
+Sou de Brasília e faço Análise e Desenvolvimento de Sistemas no IESB. Comecei com Python, hoje passo a maior parte do tempo em TypeScript e Next.js, e estou aprendendo Java com Spring Boot.
 
-**Aberto a oportunidades de estágio e vagas júnior em desenvolvimento backend / full-stack.**
+Procuro estágio ou vaga júnior em backend ou full-stack. Me acha no [LinkedIn](https://www.linkedin.com/in/cleverlandio-cardoso).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleverlandio-cardoso)
+## O que estou fazendo agora
 
-## No que estou trabalhando
+**Miss English.** Plataforma para uma escola de inglês, feita com Next.js, TypeScript, PostgreSQL, Prisma e Supabase. Tem login, área de usuários e testes automatizados. Ainda está em desenvolvimento e o código é privado.
 
-- **Miss English** — plataforma educacional full-stack com Next.js, TypeScript, PostgreSQL, Prisma e Supabase. Inclui autenticação, gerenciamento de usuários e testes automatizados. *Em desenvolvimento, código privado.*
-- **Chatbot de atendimento no WhatsApp** — automação feita para uma empresa real com n8n, WhatsApp Cloud API (Meta) e API da OpenAI, que interpreta as mensagens dos clientes e responde automaticamente. *Código privado.*
+**Chatbot de WhatsApp.** Fiz para uma empresa atender clientes pelo WhatsApp sem depender de alguém respondendo na hora. Usa n8n, a API oficial do WhatsApp e a API da OpenAI. Código privado também.
 
-## Projetos públicos
+## Projetos abertos
 
-| Projeto | O que faz | Tecnologias |
-| --- | --- | --- |
-| [Sistema de cafeteria](https://github.com/CleverCardoso/college-project-python-system) | Sistema de terminal com cadastro de produtos, clientes e pedidos, descontos e relatórios de vendas | Python, JSON, Tabulate |
-| [Análise de cancelamentos](https://github.com/CleverCardoso/data_analysis) | Análise de dados para identificar por que clientes cancelam um serviço | Python, Pandas, Jupyter |
-| [Automação de cadastro](https://github.com/CleverCardoso/automation_system) | Preenche formulários automaticamente a partir de um CSV | Python, PyAutoGUI |
-| [Flappy Bird em Pygame](https://github.com/CleverCardoso/Copy_FlappyBird) | Jogo feito do zero para praticar lógica, animação e eventos | Python, Pygame |
+São os primeiros que fiz, todos em Python:
+
+- [Sistema de cafeteria](https://github.com/CleverCardoso/college-project-python-system): trabalho da faculdade, roda no terminal e cuida de produtos, clientes, pedidos e relatório de vendas.
+- [Análise de cancelamentos](https://github.com/CleverCardoso/data_analysis): usei Pandas para entender por que os clientes de um serviço cancelavam.
+- [Automação de cadastro](https://github.com/CleverCardoso/automation_system): lê um CSV e preenche o formulário sozinho com PyAutoGUI.
+- [Flappy Bird](https://github.com/CleverCardoso/Copy_FlappyBird): feito do zero em Pygame para treinar lógica.
 
 ## Tecnologias
 
-**Uso no dia a dia**
+Uso bastante: TypeScript, Next.js, Python, PostgreSQL, Prisma, Supabase, n8n
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-**Estudando**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Estou aprendendo: Java, Spring Boot, Docker
 
 <details>
-<summary>🇺🇸 English</summary>
+<summary>English</summary>
 
 <br>
 
-Systems Analysis and Development student at IESB, based in Brasília, Brazil.
-I build web applications and automations that integrate APIs, databases and AI.
+I'm from Brasília, Brazil, studying Systems Analysis and Development at IESB. I started with Python, now spend most of my time on TypeScript and Next.js, and I'm learning Java with Spring Boot.
 
-**Open to internship and junior backend / full-stack roles.**
+I'm looking for an internship or junior role in backend or full-stack.
 
-**Currently working on**
-
-- **Miss English** — full-stack educational platform built with Next.js, TypeScript, PostgreSQL, Prisma and Supabase, with authentication, user management and automated tests. *In development, private source.*
-- **WhatsApp customer service chatbot** — automation built for a real business with n8n, the Meta WhatsApp Cloud API and the OpenAI API. *Private source.*
-
-**Public projects:** a console management system for a coffee shop, a customer churn analysis with Pandas, a form-filling automation with PyAutoGUI and a Flappy Bird game in Pygame. Links in the table above.
+Right now I'm building Miss English, a platform for an English school (Next.js, TypeScript, PostgreSQL, Prisma, Supabase), and I built a WhatsApp chatbot for a real business using n8n, the WhatsApp Cloud API and the OpenAI API. Both are private. The public repos above are my first projects, all in Python.
 
 </details>
