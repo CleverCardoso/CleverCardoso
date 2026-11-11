@@ -4,11 +4,11 @@ Sou de Brasília e faço Análise e Desenvolvimento de Sistemas no IESB. Comecei
 
 Procuro estágio ou vaga júnior em backend ou full-stack. Me acha no [LinkedIn](https://www.linkedin.com/in/cleverlandio-cardoso).
 
-## O que estou fazendo agora
+## No que tenho trabalhado
 
 **Miss English.** Plataforma para uma escola de inglês, feita com Next.js, TypeScript, PostgreSQL, Prisma e Supabase. Tem login, área de usuários e testes automatizados. Ainda está em desenvolvimento e o código é privado.
 
-**Chatbot de WhatsApp.** Fiz para uma empresa atender clientes pelo WhatsApp sem depender de alguém respondendo na hora. Usa n8n, a API oficial do WhatsApp e a API da OpenAI. Código privado também.
+**Chatbot de WhatsApp.** Fiz para uma empresa: o cliente pergunta o preço de um produto pelo WhatsApp e o bot responde na hora. Usa n8n, a API oficial do WhatsApp e a API da OpenAI. Já está pronto e o código também é privado.
 
 ## Projetos abertos
 
@@ -46,6 +46,6 @@ I'm from Brasília, Brazil, studying Systems Analysis and Development at IESB. I
 
 I'm looking for an internship or junior role in backend or full-stack.
 
-Right now I'm building Miss English, a platform for an English school (Next.js, TypeScript, PostgreSQL, Prisma, Supabase), and I built a WhatsApp chatbot for a real business using n8n, the WhatsApp Cloud API and the OpenAI API. Both are private. The public repos above are my first projects, all in Python.
+Right now I'm building Miss English, a platform for an English school (Next.js, TypeScript, PostgreSQL, Prisma, Supabase), and I built a WhatsApp chatbot that answers product price questions for a real business, using n8n, the WhatsApp Cloud API and the OpenAI API. Both are private. The public repos above are my first projects, all in Python.
 
 </details>
